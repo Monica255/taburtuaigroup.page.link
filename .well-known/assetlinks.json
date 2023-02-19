@@ -1,0 +1,25 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "uninitialized.application.id",
+    "sha256_cert_fingerprints":
+    ["DF:2C:4F:05:6E:9C:6E:2F:6D:ED:92:41:2D:1D:EE:36:EF:62:DA:01:2D:A2:1F:69:7C:97:51:B5:25:DA:4D:31"]
+  }
+},
+{
+  "relation": ["delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "web",
+    "site": "https://taburtuaigroup.page.link"
+  }
+},
+{
+  "relation": ["delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "uninitialized.application.id",
+    "sha256_cert_fingerprints":
+    ["DF:2C:4F:05:6E:9C:6E:2F:6D:ED:92:41:2D:1D:EE:36:EF:62:DA:01:2D:A2:1F:69:7C:97:51:B5:25:DA:4D:31"]
+  }
+}]
